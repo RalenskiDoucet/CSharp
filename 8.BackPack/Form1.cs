@@ -11,6 +11,7 @@ using Newtonsoft.Json;
 
 namespace _8.BackPack
 {
+
     public partial class Form1 : Form
     {
         public Form1()
@@ -41,7 +42,6 @@ namespace _8.BackPack
                 if(item.Name == comboBox1.Text)
                 {
                     richTextBox1.Text = item.ToString();
-                    pictureBox1.Image = Image.FromFile(Environment.CurrentDirectory + @"\Item pics\" + item.Name + ".png");
                 }
             }
         }
@@ -49,8 +49,20 @@ namespace _8.BackPack
         private void SaveButton_Click(object sender, EventArgs e)
         {
             var path = System.IO.Path.Combine(Environment.CurrentDirectory, "BackPack.json");
-            var backpack_root = JsonConvert.SerializeObject(BackPack.packables);
-            System.IO.File.WriteAllText(path, backpack_root);
+            var mbackpack = JsonConvert.SerializeObject(BackPack.packables);
+            System.IO.File.WriteAllText(path, mbackpack);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            comboBox1.Items.Clear();
+            richTextBox1.Clear();
+            foreach (var packable in BackPack.packables)
+            {
+                comboBox1.Items.Remove(packable.Name);
+            }
+
         }
     }
+
 }

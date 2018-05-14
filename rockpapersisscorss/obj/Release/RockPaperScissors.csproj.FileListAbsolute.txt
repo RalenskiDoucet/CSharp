@@ -1,0 +1,10 @@
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\rockpapersisscorss\bin\Release\rockpapersisscorss.exe.config
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\rockpapersisscorss\obj\Release\rockpapersisscorss.Form1.resources
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\rockpapersisscorss\obj\Release\rockpapersisscorss.Properties.Resources.resources
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\rockpapersisscorss\obj\Release\RockPaperScissors.csproj.GenerateResource.Cache
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\rockpapersisscorss\bin\Release\rockpapersisscorss.exe
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\rockpapersisscorss\bin\Release\rockpapersisscorss.pdb
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\rockpapersisscorss\bin\Release\Newtonsoft.Json.dll
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\rockpapersisscorss\bin\Release\Newtonsoft.Json.xml
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\rockpapersisscorss\obj\Release\rockpapersisscorss.exe
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\rockpapersisscorss\obj\Release\rockpapersisscorss.pdb

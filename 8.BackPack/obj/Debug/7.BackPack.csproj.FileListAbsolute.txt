@@ -1,0 +1,10 @@
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\8.BackPack\bin\Debug\8.BackPack.exe.config
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\8.BackPack\bin\Debug\8.BackPack.exe
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\8.BackPack\bin\Debug\8.BackPack.pdb
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\8.BackPack\bin\Debug\Newtonsoft.Json.dll
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\8.BackPack\bin\Debug\Newtonsoft.Json.xml
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\8.BackPack\obj\Debug\_8.BackPack.Form1.resources
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\8.BackPack\obj\Debug\_8.BackPack.Properties.Resources.resources
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\8.BackPack\obj\Debug\7.BackPack.csproj.GenerateResource.Cache
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\8.BackPack\obj\Debug\8.BackPack.exe
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\8.BackPack\obj\Debug\8.BackPack.pdb
