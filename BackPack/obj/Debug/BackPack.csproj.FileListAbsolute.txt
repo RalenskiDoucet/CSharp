@@ -1,0 +1,4 @@
+c:\users\s178029\documents\visual studio 2015\Projects\BackPack\BackPack\bin\Debug\BackPack.exe.config
+C:\Users\s178029\documents\visual studio 2015\Projects\BackPack\BackPack\obj\Debug\BackPack.csprojResolveAssemblyReference.cache
+C:\Users\s178029\documents\visual studio 2015\Projects\BackPack\BackPack\obj\Debug\BackPack.Properties.Resources.resources
+C:\Users\s178029\documents\visual studio 2015\Projects\BackPack\BackPack\obj\Debug\BackPack.csproj.GenerateResource.Cache

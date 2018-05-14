@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "HealingDrink",
+        "Attribute": "Heal",
+        "Value": 15
+    },
+    {
+        "Name": "Combat_Knife",
+        "Attribute": "Sharpness",
+        "Value": 20
+    },
+    {
+        "Name": "Antidote",
+        "Attribute": "Cure",
+        "Value": 10
+    },
+    {
+        "Name": "CombatShield",
+        "Attribute": "Toughness",
+        "Value": 10
+    },
+    {
+        "Name": "M9",
+        "Attribute": "Bullet Damage",
+        "Value": 12
+    },
+    {
+        "Name": "KevlarVest",
+        "Attribute": "Armor",
+        "Value": 15
+    }
+]

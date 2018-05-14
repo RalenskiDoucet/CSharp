@@ -1,0 +1,1 @@
+{"stats":[{"newStat":0,"Name":"Strength","Value":null,"Description":null},{"newStat":0,"Name":"Dexterity","Value":null,"Description":null}]}

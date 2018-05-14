@@ -1,0 +1,26 @@
+C:\Users\s178025\Documents\Visual Studio 2015\Projects\IntroToCsharp\8.BackPack\bin\Debug\8.BackPack.exe.config
+C:\Users\s178025\Documents\Visual Studio 2015\Projects\IntroToCsharp\8.BackPack\bin\Debug\8.BackPack.exe
+C:\Users\s178025\Documents\Visual Studio 2015\Projects\IntroToCsharp\8.BackPack\bin\Debug\8.BackPack.pdb
+C:\Users\s178025\Documents\Visual Studio 2015\Projects\IntroToCsharp\8.BackPack\bin\Debug\Newtonsoft.Json.dll
+C:\Users\s178025\Documents\Visual Studio 2015\Projects\IntroToCsharp\8.BackPack\bin\Debug\Newtonsoft.Json.xml
+C:\Users\s178025\Documents\Visual Studio 2015\Projects\IntroToCsharp\8.BackPack\obj\Debug\8.BackPack.csprojResolveAssemblyReference.cache
+C:\Users\s178025\Documents\Visual Studio 2015\Projects\IntroToCsharp\8.BackPack\obj\Debug\_8.BackPack.Form1.resources
+C:\Users\s178025\Documents\Visual Studio 2015\Projects\IntroToCsharp\8.BackPack\obj\Debug\_8.BackPack.Properties.Resources.resources
+C:\Users\s178025\Documents\Visual Studio 2015\Projects\IntroToCsharp\8.BackPack\obj\Debug\8.BackPack.csproj.GenerateResource.Cache
+C:\Users\s178025\Documents\Visual Studio 2015\Projects\IntroToCsharp\8.BackPack\obj\Debug\8.BackPack.exe
+C:\Users\s178025\Documents\Visual Studio 2015\Projects\IntroToCsharp\8.BackPack\obj\Debug\8.BackPack.pdb
+C:\Users\s178025\Documents\GitHub\IntroToCsharp\8.BackPack\obj\Debug\_8.BackPack.Form1.resources
+C:\Users\s178025\Documents\GitHub\IntroToCsharp\8.BackPack\obj\Debug\_8.BackPack.Properties.Resources.resources
+C:\Users\s178025\Documents\GitHub\IntroToCsharp\8.BackPack\obj\Debug\8.BackPack.csproj.GenerateResource.Cache
+C:\Users\s178025\Documents\GitHub\IntroToCsharp\8.BackPack\bin\Debug\8.BackPack.exe.config
+C:\Users\s178025\Documents\GitHub\IntroToCsharp\8.BackPack\bin\Debug\8.BackPack.exe
+C:\Users\s178025\Documents\GitHub\IntroToCsharp\8.BackPack\bin\Debug\8.BackPack.pdb
+C:\Users\s178025\Documents\GitHub\IntroToCsharp\8.BackPack\obj\Debug\8.BackPack.exe
+C:\Users\s178025\Documents\GitHub\IntroToCsharp\8.BackPack\obj\Debug\8.BackPack.pdb
+C:\Users\s178025\Documents\GitHub\IntroToCsharp\8.BackPack\obj\Debug\8.BackPack.csprojResolveAssemblyReference.cache
+C:\Users\s178025\Documents\Visual Studio 2015\Projects\IntroToCsharp\Practice-Csharp\8.BackPack\bin\Debug\8.BackPack.exe.config
+C:\Users\s178025\Documents\Visual Studio 2015\Projects\IntroToCsharp\Practice-Csharp\8.BackPack\obj\Debug\8.BackPack.exe
+C:\Users\s178025\Documents\Visual Studio 2015\Projects\IntroToCsharp\Practice-Csharp\8.BackPack\obj\Debug\8.BackPack.pdb
+C:\Users\s178025\Documents\GitHub\IntroToCsharp\Practice-Csharp\8.BackPack\bin\Debug\8.BackPack.exe.config
+C:\Users\s178025\Documents\GitHub\IntroToCsharp\Practice-Csharp\8.BackPack\obj\Debug\8.BackPack.exe
+C:\Users\s178025\Documents\GitHub\IntroToCsharp\Practice-Csharp\8.BackPack\obj\Debug\8.BackPack.pdb

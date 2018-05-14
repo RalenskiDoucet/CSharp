@@ -1,0 +1,8 @@
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\0.4Serialization\bin\Debug\0.4Serialization.exe.config
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\0.4Serialization\bin\Debug\0.4Serialization.exe
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\0.4Serialization\bin\Debug\0.4Serialization.pdb
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\0.4Serialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\0.4Serialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\0.4Serialization\obj\Debug\4.Serialization.csprojResolveAssemblyReference.cache
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\0.4Serialization\obj\Debug\0.4Serialization.exe
+C:\Users\s178029\documents\visual studio 2015\Projects\Practice-Csharp\0.4Serialization\obj\Debug\0.4Serialization.pdb

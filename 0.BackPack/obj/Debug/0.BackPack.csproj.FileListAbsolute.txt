@@ -1,0 +1,2 @@
+C:\Users\s178029\documents\visual studio 2015\Projects\BackPack\0.BackPack\bin\Debug\0.BackPack.exe.config
+C:\Users\s178029\Documents\visual studio 2015\Projects\CSharp\0.BackPack\bin\Debug\0.BackPack.exe.config
