@@ -8,3 +8,4 @@ C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\8.BackPack\obj\Deb
 C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\8.BackPack\obj\Debug\7.BackPack.csproj.GenerateResource.Cache
 C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\8.BackPack\obj\Debug\8.BackPack.exe
 C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\8.BackPack\obj\Debug\8.BackPack.pdb
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\8.BackPack\obj\Debug\7.BackPack.csprojResolveAssemblyReference.cache
