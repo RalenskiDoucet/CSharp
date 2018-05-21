@@ -1,0 +1,2 @@
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\0.IntroToCsharp\obj\Debug\IntroToCsharp.csprojResolveAssemblyReference.cache
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\0.IntroToCsharp\bin\Debug\0.IntroToCsharp.exe.config

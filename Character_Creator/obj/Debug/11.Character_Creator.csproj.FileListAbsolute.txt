@@ -2,3 +2,10 @@ C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\Character_Creator\
 C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\Character_Creator\obj\Debug\CharacterCreator.Form1.resources
 C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\Character_Creator\obj\Debug\Character_Creator.Properties.Resources.resources
 C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\Character_Creator\obj\Debug\11.Character_Creator.csproj.GenerateResource.Cache
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\Character_Creator\obj\Debug\11.Character_Creator.csprojResolveAssemblyReference.cache
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\Character_Creator\bin\Debug\Character_Creator.exe
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\Character_Creator\bin\Debug\Character_Creator.pdb
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\Character_Creator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\Character_Creator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\Character_Creator\obj\Debug\Character_Creator.exe
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\Character_Creator\obj\Debug\Character_Creator.pdb

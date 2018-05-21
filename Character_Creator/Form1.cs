@@ -7,7 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using _3.Containers;
+
+
 
 namespace CharacterCreator
 {
@@ -50,7 +51,12 @@ namespace CharacterCreator
                 label5.Text = textBox1.Text;
             }
         }
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }

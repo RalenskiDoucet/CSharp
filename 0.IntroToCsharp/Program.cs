@@ -12,17 +12,10 @@ namespace _0.IntroToCsharp
             public string name;
             public int Id;
         }
-    public abstract class Weapon
+        public abstract class Weapon
         {
             public int power;
-            public virtual void dodamage() { };
         }
-    public abstract class Potion
-        {
-           public int power;
-           public virtual void consume();
-        }
-
         static void Main(string[] args)
         {
         }

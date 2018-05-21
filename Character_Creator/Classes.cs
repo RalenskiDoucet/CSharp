@@ -3,18 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using 3.Containers;
 using Newtonsoft.Json;
+
 
 namespace CharacterCreator
 {
-    class Character
+    public class Character
     {
         public int ExperiencePoints = 0;
         public int Level = 0;
         public string CharacterName = ("");
     }
-
     public class Race : Character
     {
         public string Name { get; set; }
@@ -47,6 +46,21 @@ namespace CharacterCreator
         {
             Races.Add(race.Name, race);
         }
+
+    }
+    class Stat
+    {
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public static Stat Health { get; private set; }
+        public static Stat Stamina { get; private set; }
+        public static Stat Strenght { get; private set; }
+        public static Stat Gold { get; private set; }
+
+        public static List<Stat> Stats = new List<Stat>()
+        {
+            Health, Stamina, Strenght,Gold,
+        };
 
     }
 }

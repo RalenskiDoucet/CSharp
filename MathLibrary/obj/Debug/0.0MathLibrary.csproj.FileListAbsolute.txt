@@ -1,0 +1,2 @@
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\MathLibrary\obj\Debug\0.0MathLibrary.csprojResolveAssemblyReference.cache
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\MathLibrary\bin\Debug\MathLibrary.exe.config

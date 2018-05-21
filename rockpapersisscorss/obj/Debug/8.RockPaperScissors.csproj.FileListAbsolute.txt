@@ -1,0 +1,3 @@
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\rockpapersisscorss\obj\Debug\rockpapersisscorss.Form1.resources
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\rockpapersisscorss\obj\Debug\rockpapersisscorss.Properties.Resources.resources
+C:\Users\s178029\Documents\Visual Studio 2015\Projects\CSharp\rockpapersisscorss\obj\Debug\8.RockPaperScissors.csproj.GenerateResource.Cache
