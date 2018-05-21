@@ -50,16 +50,26 @@ namespace CharacterCreator
     }
     class Stat
     {
-        public string Name { get; set; }
-        public string Description { get; set; }
-        public static Stat Health { get; private set; }
-        public static Stat Stamina { get; private set; }
-        public static Stat Strenght { get; private set; }
-        public static Stat Gold { get; private set; }
+        public string Name
+        { get; set; }
+        public string Description
+        { get; set; }
+        public static Stat Health
+        { get; private set; }
+        public static Stat Stamina
+        { get; private set; }
+        public static Stat Strenght
+        { get; private set; }
+        public static Stat Gold
+        { get; private set; }
+        public static Stat Silver
+        { get; private set; }
+        public static Stat Copper
+        { get; private set; }
 
         public static List<Stat> Stats = new List<Stat>()
         {
-            Health, Stamina, Strenght,Gold,
+            Health, Stamina, Strenght,Gold,Silver,Copper,
         };
 
     }
