@@ -44,12 +44,12 @@ namespace CharacterCreator
         private void MakeCharacter_Click(object sender, EventArgs e)
         {
             richTextBox1.Clear();
-            Race newRace = new Race()
+            foreach (var item in RaceList)
             {
-                CharacterName = textBox1.Text,
-                Level = 0,
-                ExperiencePoints = 0
-            };
+                RaceBox.Items.Add(item.CharacterName);
+                item.MakeCharacter();
+                label5.Text = textBox1.Text;
+            }
         }
         private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
@@ -57,25 +57,6 @@ namespace CharacterCreator
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            Text.ToString();
-        }
-
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            richTextBox1.Clear();
-            Race newRace = new Race()
-            {
-                CharacterName = textBox1.Text,
-                Level = 0,
-                ExperiencePoints = 0
-            };
-            RaceList.Add(newRace);
-            newRace.MakeCharacter();
-            RaceBox.Items.Add(newRace.CharacterName);
-        }
-
-        private void label2_Click(object sender, EventArgs e)
         {
 
         }
